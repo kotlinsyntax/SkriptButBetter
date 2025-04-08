@@ -1,0 +1,12 @@
+# Decoratives whose IDs have never changed or whose differences can be expressed with a variant.
+unchanged decoratives:
+	painting [item]¦s = minecraft:painting[relatedEntity=painting]
+	item frame [item]¦s = minecraft:item_frame[relatedEntity=item frame]
+	armor stand [item]¦s = minecraft:armor_stand[relatedEntity=armor stand]
+
+# New decoratives introduced in 1.9
+combat update:
+	end crystal [item]¦s = minecraft:end_crystal[relatedEntity=ender crystal]
+
+caves and cliffs update part 1:
+	glow item frame [item]¦s = minecraft:glow_item_frame[relatedEntity=glow item frame]

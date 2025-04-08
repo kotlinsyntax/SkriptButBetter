@@ -1,0 +1,3 @@
+test "item crack particles":
+	set {_loc} to test-location
+	play diamond sword item crack at {_loc}
